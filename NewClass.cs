@@ -6,6 +6,9 @@ namespace PIS_Lab_1
 {
     class NewClass
     {
-        public int x{get;set;}
+        public void PraznaMetoda()
+        {
+            Console.WriteLine("KONZOLA GO BRRRr");
+        }
     }
 }
